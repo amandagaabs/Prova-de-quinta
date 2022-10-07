@@ -1,0 +1,9 @@
+### Listar 
+GET https://localhost:5001/api/folhaPagamento/listar
+
+### Buscar 
+GET https://localhost:5001/api/folhaPagamento/buscar/
+
+
+### Filtrar
+GET https://localhost:5001/api/folhaPagamento/filtrar/
