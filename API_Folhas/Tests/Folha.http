@@ -2,7 +2,7 @@
 GET https://localhost:5001/api/folhaPagamento/listar
 
 ### Buscar 
-GET https://localhost:5001/api/folhaPagamento/buscar/
+GET https://localhost:5001/api/folhaPagamento/buscar/123
 
 
 ### Filtrar
